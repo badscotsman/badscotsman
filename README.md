@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @badscotsman (aka Scott Cameron)
 - 👀 I’m interested in ... Unity game development!
-- 🌱 I’m currently learning ... well, I never stop learning!
+- 🌱 I’m currently learning ... well, I never stop learning! But specifically, the latest and greatest best practices from Unity and Machine Learning.
 - 💞️ I’m looking to collaborate on ... a remarkable open-source project that benefits all Unity developers!
 - 📫 How to reach me ... scott (at) iohouse (dot) com
 
